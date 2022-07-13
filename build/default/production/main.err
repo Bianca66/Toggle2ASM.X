@@ -1,0 +1,16 @@
+Warning[231] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 19 : No memory has been reserved by this instruction
+Warning[203] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 25 : Found opcode in column 1. (GOTO)
+Warning[207] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 43 : Found label after column 1. (COMMAND)
+Warning[227] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 68 : Substituting RETLW 0 for RETURN pseudo-op
+Warning[203] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 75 : Found opcode in column 1. (GOTO)
+Warning[207] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 96 : Found label after column 1. (LOOP)
+Warning[204] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 99 : Found pseudo-op in column 1. (RETURN)
+Warning[227] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 99 : Substituting RETLW 0 for RETURN pseudo-op
+Warning[207] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 105 : Found label after column 1. (LOOP1)
+Warning[204] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 112 : Found pseudo-op in column 1. (RETURN)
+Warning[227] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 112 : Substituting RETLW 0 for RETURN pseudo-op
+Warning[204] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 117 : Found pseudo-op in column 1. (RETURN)
+Warning[227] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 117 : Substituting RETLW 0 for RETURN pseudo-op
+Warning[204] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 124 : Found pseudo-op in column 1. (RETURN)
+Warning[227] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 124 : Substituting RETLW 0 for RETURN pseudo-op
+Warning[205] /home/palade/MPLABXProjects/Toggle2ASM.X/main.asm 145 : Found directive in column 1. (END)
